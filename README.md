@@ -2,11 +2,10 @@
 Play GHOST, but with anagrams!
 
 ## To Play:
-```
-Unzip from here: [https://github.com/isaac-ped/shogt/archive/master.zip]
+Unzip from here: https://github.com/isaac-ped/shogt/archive/master.zip
 
 Double click on `play_shogt`
-```
+
 
 ### Rules
 
