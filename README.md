@@ -5,11 +5,14 @@ Play GHOST, but with anagrams!
 Unzip from here: https://github.com/isaac-ped/shogt/archive/master.zip
 
 Double click on `play_shogt`
+
 -- or --
+
 Open terminal, type:
-```
+
+`
 python path/to/shogt/shogt.py
-```
+`
 
 
 ### Rules
